@@ -40,7 +40,7 @@ Aquí te dejo algunos de mis **estadísticos** para que puedas ver mi evolución
 Si estás buscando un **Full Stack Developer** con **experiencia legal**, ¡estoy aquí para ayudarte! No dudes en contactarme para discutir proyectos interesantes o nuevas oportunidades.
 
 - 📧 **Correo**: [vbravo.quintana@gmail.com](mailto:vbravo.quintana@gmail.com)
-- 💼 **LinkedIn**: [Mi perfil de Linkedin](https://www.linkedin.com/in/vbravoquintana/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/vbravoquintana/](https://www.linkedin.com/in/vbravoquintana/)
 
 ---
 
