@@ -1,8 +1,8 @@
 # 👨‍💻 ¡Hola, soy Víctor Bravo!
 
-Soy **Full Stack Developer** y **Abogado** con una pasión por la programación y la innovación legal. Actualmente me encuentro **en búsqueda activa de empleo** y nuevos proyectos en los que pueda **colaborar** y seguir aprendiendo en el apasionante mundo de la programación.
+Soy un **Full Stack Developer** y **Abogado** comprometido con la convergencia entre el ámbito legal y las nuevas tecnologías. Mi pasión se centra en la programación, en especial en el sector de la inteligencia artificial, y uno de mis objetivos es desarrollar una red neuronal que funcione como herramienta innovadora para abogados. Actualmente, me ecuentro en **búsqueda activa de oportunidades laborales y proyectos colaborativos** que integren estos dos campos, impulsando la transformación digital en el sector legal.
 
-A lo largo de mis estudios en **4Geeks Academy**, he adquirido habilidades clave en desarrollo web, desde el frontend hasta el backend, y ahora busco aplicar mis conocimientos en proyectos reales.
+A lo largo de mi formación en **4Geeks Academy**, he consolidado habilidades clave en desarrollo web, abarcando tanto el frontend como el backend, y ahora aspiro a aplicar y expandir estos conocimientos en proyectos reales que fomenten la integración de la tecnología y el derecho.
 
 ---
 
@@ -29,8 +29,8 @@ Aquí te dejo algunas de mis **estadísticas** para que puedas ver mi evolución
 
 ## 🎯 ¿Qué estoy buscando?
 
-- **Oportunidades de empleo** como desarrollador Full Stack en empresas o startups innovadoras.
-- **Colaboraciones en proyectos** donde pueda aportar mis conocimientos en programación y derecho, desarrollando soluciones legales tecnológicas.
+- **Oportunidades de empleo** como Desarrollador Frontend, Backend o Full Stack en empresas o startups innovadoras.
+- **Colaboraciones en proyectos** donde pueda poner en práctica mis conocimientos en programación y derecho, aportando soluciones desde el punto de vista legal y tecnológico.
 - **Proyectos de código abierto** para seguir aprendiendo y contribuyendo a la comunidad.
 
 ---
@@ -46,7 +46,7 @@ Si estás buscando un **Full Stack Developer** con **experiencia legal**, ¡esto
 
 ## 📝 Proyectos Destacados
 
-Aquí puedes ver algunos de mis proyectos realizados durante mi formación, los cuales incluyen tecnologías como React, Flask, PostgreSQL, y más:
+Aquí puedes ver algunos de mis proyectos realizados durante mi trayectoria como desarrollador:
 
 - **[Proyecto 1: RutaTrack](https://rutatrack.onrender.com/)**: Aplicación para gestionar rutas, costes y tiempo de entrega en el transporte terrestre, y CRM para gestionar clientes, colaboradores y flota de vehículos propios. 
 - **[Proyecto 2: MusculManía](link-al-repositorio)**:  Una aplicación que funciona como CRM y como app para generar dietas y rutinas de entreno, y que permite a los usuarios consultar sus planes de entreno y llevar un seguimiento de sus progresos.
@@ -56,7 +56,7 @@ Aquí puedes ver algunos de mis proyectos realizados durante mi formación, los 
 
 ## 🛠 ¿Cómo puedo ayudarte?
 
-Mi enfoque es combinar **tecnología** y **derecho** para ofrecer soluciones innovadoras a problemas reales. Si tienes un desafío o proyecto en mente, estaré encantado de colaborar y aportar mi experiencia tanto en desarrollo como en el campo legal.
+Mi enfoque es combinar **tecnología** y **derecho** para ofrecer soluciones innovadoras a problemas reales. Si tienes un desafío o proyecto en mente, estaré encantado de colaborar y aportar mi experiencia tanto en desarrollo como en el ámbito legal.
 
 ¡Vamos a construir algo genial juntos!
 
