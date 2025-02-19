@@ -1,6 +1,6 @@
 # 👨‍💻 ¡Hola, soy Víctor Bravo!
 
-Soy un **Full Stack Developer** y **Abogado** comprometido con la convergencia entre el ámbito legal y las nuevas tecnologías. Mi pasión se centra en la programación, en especial en el sector de la inteligencia artificial, y uno de mis objetivos es desarrollar una red neuronal que funcione como herramienta innovadora para abogados. Actualmente, me ecuentro en **búsqueda activa de oportunidades laborales y proyectos colaborativos** que integren estos dos campos, impulsando la transformación digital en el sector legal.
+Soy un **Full Stack Developer** y **Abogado** enfocado en la convergencia entre el ámbito legal y las nuevas tecnologías. Mi pasión se centra en la programación, en especial en el sector de la inteligencia artificial, y uno de mis objetivos es desarrollar una red neuronal que funcione como herramienta innovadora para abogados. Actualmente, me ecuentro en **búsqueda activa de oportunidades laborales y proyectos colaborativos** que integren estos dos campos, impulsando la transformación digital en el sector legal.
 
 A lo largo de mi formación en **4Geeks Academy**, he consolidado habilidades clave en desarrollo web, abarcando tanto el frontend como el backend, y ahora aspiro a aplicar y expandir estos conocimientos en proyectos reales que fomenten la integración de la tecnología y el derecho.
 
