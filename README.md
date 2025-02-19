@@ -19,7 +19,7 @@ Durante mi formación, he aprendido y trabajado con una variedad de tecnologías
 
 ## 📈 GitHub Stats
 
-Aquí te dejo algunos de mis **estadísticos** para que puedas ver mi evolución y mis contribuciones:
+Aquí te dejo algunas de mis **estadísticas** para que puedas ver mi evolución y mis contribuciones:
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntaresFS&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
