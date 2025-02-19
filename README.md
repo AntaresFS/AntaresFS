@@ -48,8 +48,8 @@ Si estás buscando un **Full Stack Developer** con **experiencia legal**, ¡esto
 
 Aquí puedes ver algunos de mis proyectos realizados durante mi formación, los cuales incluyen tecnologías como React, Flask, PostgreSQL, y más:
 
-- **[Proyecto 1: RutaTrack](link-al-repositorio)**: Aplicación para gestionar rutas, costes y tiempo de entrega en el transporte terrestre, así como CRM para gestionar clientes, colaboradores y flota de vehículos propios. 
-- **[Proyecto 2: StarWars Blog](link-al-repositorio)**:  Una aplicación que funciona como Base de Datos en formato Blog y que permite a los usuarios guardar y gestionar sus elementos guardados como favoritos.
+- **[Proyecto 1: RutaTrack](https://rutatrack.onrender.com/)**: Aplicación para gestionar rutas, costes y tiempo de entrega en el transporte terrestre, y CRM para gestionar clientes, colaboradores y flota de vehículos propios. 
+- **[Proyecto 2: MusculManía](link-al-repositorio)**:  Una aplicación que funciona como CRM y como app para generar dietas y rutinas de entreno, y que permite a los usuarios consultar sus planes de entreno y llevar un seguimiento de sus progresos.
 
 
 ---
