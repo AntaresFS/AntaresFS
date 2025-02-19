@@ -10,10 +10,10 @@ A lo largo de mis estudios en **4Geeks Academy**, he adquirido habilidades clave
 
 Durante mi formación, he aprendido y trabajado con una variedad de tecnologías, que me permiten crear aplicaciones web robustas y escalables:
 
-- **Frontend**: HTML5, CSS, Bootstrap, JavaScript, React.js, Flux, Context API
-- **Backend**: Python, Flask, SQLAlchemy, JWT
-- **Base de datos**: PostgreSQL, SQL
-- **Herramientas adicionales**: Git, GitHub, Postman
+- **Frontend**: HTML5, CSS, Bootstrap, JavaScript, React.js, Flux
+- **Backend**: Python, RESTful APIs con Flask, Autenticación con JWT
+- **Base de datos**: PostgreSQL, SQL - SQLAlchemy
+- **Herramientas adicionales**: Git, GitHub, Postman, VS Code, Slack
 
 ---
 
