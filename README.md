@@ -49,7 +49,7 @@ Si estás buscando un **Full Stack Developer** con **experiencia legal**, ¡esto
 Aquí puedes ver algunos de mis proyectos realizados durante mi trayectoria como desarrollador:
 
 - **[Proyecto 1: RutaTrack](https://rutatrack.onrender.com/)**: Aplicación para gestionar rutas, costes y tiempo de entrega en el transporte terrestre, y CRM para gestionar clientes, colaboradores y flota de vehículos propios. 
-- **[Proyecto 2: MusculManía](link-al-repositorio)**:  Una aplicación que funciona como CRM y como app para generar dietas y rutinas de entreno, y que permite a los usuarios consultar sus planes de entreno y llevar un seguimiento de sus progresos.
+- **[Proyecto 2: MusculManía](https://github.com/AntaresFS/Musculmania)**:  Una aplicación que funciona como CRM y como app para generar dietas y rutinas de entreno, y que permite a los usuarios consultar sus planes de entreno y llevar un seguimiento de sus progresos.
 
 
 ---
