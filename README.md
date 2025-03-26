@@ -10,10 +10,10 @@ A lo largo de mi formación en **4Geeks Academy**, he consolidado habilidades cl
 
 Durante mi formación, he aprendido y trabajado con una variedad de tecnologías, que me permiten crear aplicaciones web robustas y escalables:
 
-- **Frontend**: HTML5, CSS, Bootstrap, JavaScript, React.js, Flux
-- **Backend**: Python, RESTful APIs con Flask, Autenticación con JWT
+- **Frontend**: HTML5, CSS, Bootstrap, JavaScript, React
+- **Backend**: Python, Flask, Node, Express, RESTful APIs, JSON Web Token
 - **Base de datos**: PostgreSQL, SQL - SQLAlchemy
-- **Herramientas adicionales**: Git, GitHub, Postman, VS Code, Slack
+- **Herramientas adicionales**: Git, GitHub, Docker, Jest, Postman, Render, VS Code, Slack
 
 ---
 
@@ -48,8 +48,9 @@ Si estás buscando un **Full Stack Developer** con **experiencia legal**, ¡esto
 
 Aquí puedes ver algunos de mis proyectos realizados durante mi trayectoria como desarrollador:
 
-- **[Proyecto 1: RutaTrack](https://rutatrack.onrender.com/)**: Aplicación para gestionar rutas, costes y tiempo de entrega en el transporte terrestre, y CRM para gestionar clientes, colaboradores y flota de vehículos propios. 
+- **[Proyecto 1: RutaTrack](https://github.com/AntaresFS/RutaTrack)**: Aplicación para gestionar rutas, costes y tiempo de entrega en el transporte terrestre, y CRM para gestionar clientes, colaboradores y flota de vehículos propios. 
 - **[Proyecto 2: MusculManía](https://github.com/AntaresFS/Musculmania)**:  Una aplicación que funciona como CRM y como app para generar dietas y rutinas de entreno, y que permite a los usuarios consultar sus planes de entreno y llevar un seguimiento de sus progresos.
+-  **[Proyecto 3: PyMorfosis](https://github.com/AntaresFS/c24-67-ft-webapp)**: MVP de Plataforma de Aprendizaje Adaptativa para aprender a programar con Python que se adapta a tu nivel de conocimientos.
 
 
 ---
