@@ -1,25 +1,28 @@
-# 👨‍💻 ¡Hola, soy Víctor Bravo!
+# 👨‍💻 Hi there, I'm Víctor Bravo!
 
-Soy **Desarrollador Full Stack** y **Abogado**, enfocado en la convergencia entre el mundo del derecho y las nuevas tecnologías. Impulsado por mi pasión por la programación, especialmente en el campo de la inteligencia artificial, aspiro a crear una herramienta que, en el futuro, automatice la búsqueda y el análisis de jurisprudencia para fortalezca la defensa legal mediante el uso de precedentes. Sin embargo, actualmente **busco oportunidades laborales y proyectos colaborativos** que me permitan crecer como desarrollador en roles full stack, frontend o backend, incluso fuera del ámbito legal, contribuyendo en entornos desafiantes y enriquecedores.
+I am a **Full Stack Developer** and **Lawyer**, focused on the convergence between the legal world, process optimization, and new technologies. Currently, I specialize in **AI-Assisted Development and Context Engineering**, mastering how to design scalable software at an accelerated pace through advanced collaboration with LLMs and workflow automation.
 
-Mi formación en **4Geeks Academy** me ha dotado de **sólidos conocimientos técnicos y soft skills clave** como el trabajo en equipo, la comunicación efectiva, el autoaprendizaje, la innovación y la adaptabilidad. Estas competencias se vieron reforzadas y validadas en la Cohorte 24 de la **Simulación Laboral de No Country**, donde tuve la oportunidad de colaborar en un entorno multicultural y multidisciplinario. Mi objetivo es seguir creciendo como desarrollador, idealmente contribuyendo a la transformación digital del sector legal a través de proyectos innovadores.
+Given my legal background, I have a strong interest in building tools like intelligent case law analyzers—but my primary goal is to establish myself as a versatile developer and grow within the tech industry. I am currently seeking full-time roles and collaborative projects across any sector where I can apply my problem-solving skills, deliver immediate value, and continuously scale my technical expertise.
 
----
-
-## 🚀 Habilidades Técnicas
-
-Durante mi formación, he aprendido y trabajado con una variedad de tecnologías, que me permiten crear aplicaciones web robustas y escalables:
-
-- **Frontend**: HTML5, CSS, Bootstrap, JavaScript, React
-- **Backend**: Python, Flask, Node, Express, RESTful APIs, JSON Web Token
-- **Base de datos**: PostgreSQL, SQL - SQLAlchemy
-- **Herramientas adicionales**: Git, GitHub, Docker, Jest, Postman, Render, VS Code, Slack
+My background at **4Geeks Academy** and my experience in the **No Country** collaborative team simulation (Cohort 24) have provided me with solid technical foundations and agile methodologies. Additionally, my background in law brings an analytical, structured, and detail-oriented mindset, which is ideal for solving complex logic and data problems.
 
 ---
+
+## 🚀 Technical Skills
+
+I work with a modern tech stack focused on both traditional web development and workflow optimization through AI:
+
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript (ES6+), React, Context API
+- **Backend**: Python, Flask, Node, Express, RESTful APIs, JWT (Secure Authentication)
+- **Databases & ORM**: PostgreSQL, SQL, SQLAlchemy
+- **AI & Automation**: Context Engineering (AI Memory Banks), Model Context Protocol (MCP), advanced prompt engineering for software development.
+- **Tools**: Git, GitHub, Docker, Jest, Postman, Render, VS Code, Slack
+
+--- 
 
 ## 📈 GitHub Stats
 
-Aquí te dejo algunas de mis **estadísticas** para que puedas ver mi evolución y mis contribuciones:
+Here are some of my **stats** so you can see my evolution and contributions:
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntaresFS&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
@@ -27,38 +30,35 @@ Aquí te dejo algunas de mis **estadísticas** para que puedas ver mi evolución
 
 ---
 
-## 🎯 ¿Qué estoy buscando?
+## 🎯 What am I looking for?
 
-- **Oportunidades de empleo** como Desarrollador Frontend, Backend o Full Stack en empresas o startups innovadoras.
-- **Colaboraciones en proyectos** donde pueda poner en práctica mis conocimientos en programación y derecho, aportando soluciones desde el punto de vista legal y tecnológico.
-- **Proyectos de código abierto** para seguir aprendiendo y contribuyendo a la comunidad.
+- **Full Stack, Frontend, or Backend Developer roles** in engineering teams looking for adaptable, efficiency-driven profiles.
+- **Collaborations in applied AI projects**, automation, or tools where I can bridge technology, data, and complex workflows.
+- **Open-source projects** to keep learning, experimenting with new protocols (like MCP), and contributing to the community.
 
 ---
 
-## 🔗 Conéctate conmigo
+## 🔗 Connect with me
 
-Si estás buscando un **Full Stack Developer** con **experiencia legal**, ¡estoy aquí para ayudarte! No dudes en contactarme para discutir proyectos interesantes o nuevas oportunidades.
+If you are looking for a resourceful developer with a unique analytical profile, focused on modern AI-driven development methodologies, let's talk!
 
-- 📧 **Correo**: [vbravo.quintana@gmail.com](mailto:vbravo.quintana@gmail.com)
+- 📧 **Email**: [vbravo.quintana@gmail.com](mailto:vbravo.quintana@gmail.com)
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/vbravoquintana/](https://www.linkedin.com/in/vbravoquintana/)
 
 ---
 
-## 📝 Proyectos Destacados
+## 📝 Featured Projects
 
-Aquí puedes ver algunos de mis proyectos realizados durante mi trayectoria como desarrollador:
+Here are some of the projects I have built throughout my journey as a developer:
 
-- **[Proyecto 1: RutaTrack](https://github.com/AntaresFS/RutaTrack)**: Aplicación para gestionar rutas, costes y tiempo de entrega en el transporte terrestre, y CRM para gestionar clientes, colaboradores y flota de vehículos propios. 
-- **[Proyecto 2: MusculManía](https://github.com/AntaresFS/Musculmania)**:  Una aplicación que funciona como CRM y como app para generar dietas y rutinas de entreno, y que permite a los usuarios consultar sus planes de entreno y llevar un seguimiento de sus progresos.
--  **[Proyecto 3: PyMorfosis](https://github.com/AntaresFS/c24-67-ft-webapp)**: MVP de Plataforma de Aprendizaje Adaptativa para aprender a programar con Python que se adapta a tu nivel de conocimientos.
-
+- **[Project 1: RutaTrack](https://github.com/AntaresFS/RutaTrack)**: A full-stack logistics application to manage routes, operational costs, and estimated delivery times (ETAs/ETDs) using the Google Maps API and custom algorithms, integrating a comprehensive CRM module for vehicle fleets and clients. (React, Context API, Flask, PostgreSQL, JWT).
+- **[Project 2: MusculManía](https://github.com/AntaresFS/Musculmania)**: A web application designed for workout and nutrition management. It operates as a CRM for personal trainers and a tracking platform for clients, allowing them to monitor hypertrophy and strength progress.
 
 ---
 
-## 🛠 ¿Cómo puedo ayudarte?
+## 🛠 How can I help you?
 
-Mi enfoque es combinar **tecnología** y **derecho** para ofrecer soluciones innovadoras a problemas reales. Si tienes un desafío o proyecto en mente, estaré encantado de colaborar y aportar mi experiencia tanto en desarrollo como en el ámbito legal.
+My approach focuses on combining the structure of **law** with the agility of **modern technology** and **AI automation** to solve real-world problems. If you have a technical challenge or a project in mind, I would love to join in and deliver efficient solutions.
 
-¡Construyamos juntos el próximo gran proyecto!
-
+Let's build the next big project together!
 
